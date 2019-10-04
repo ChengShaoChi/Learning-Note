@@ -1,3 +1,4 @@
+#錯的，無法滿足所有輸入
 class Solution:
     def findErrorNums(self, nums):
         dup=0
@@ -7,7 +8,7 @@ class Solution:
                 dup=nums[i]
                 missing=nums[i-1]+1
         return dup,missing
-#無法滿足所有輸入
+
 #set()：創一個無序且不重複的集合
 class Solution:
     def findErrorNums(self, nums):
