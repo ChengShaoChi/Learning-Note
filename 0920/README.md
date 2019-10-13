@@ -8,4 +8,6 @@
     * 缺點：因為Linked list沒有index，若要找到特定node，需要從頭開始往後查詢。  
 * Array（結構陣列）  
     * 優點：查詢資料容易、快速。  
-    * 缺點：插入和刪除資料麻煩，因為會造成資料移動頻繁。
+    * 缺點：插入和刪除資料麻煩，因為會造成資料移動頻繁。    
+
+參考資料：http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html
