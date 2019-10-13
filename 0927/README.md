@@ -1,5 +1,6 @@
 ## Stack & Queue  
-![image](https://www.thecrazyprogrammer.com/wp-content/uploads/2016/05/Difference-Between-Stack-and-Queue.jpg)    
+
+![image](https://media.geeksforgeeks.org/wp-content/uploads/geek-stack-1.png)    
 
 **Stack**：像是把盤子疊起來，要拿只能拿最上面的，先進後出。  
 * 為什麼要有stack？
@@ -11,6 +12,8 @@
     * Getmin：回傳最小的資料。
     * IsEmpty：確認Stack裡是否有資料。  
     * getSize：回傳Stack裡的資料個數。  
+    
+![image](https://media.geeksforgeeks.org/wp-content/uploads/geek-queue-1.png)    
 
 **Queue**：像是在排隊，先進先出。  
 * 必須有的功能：  
