@@ -1,4 +1,6 @@
 ## Stack & Queue  
+![image](https://www.thecrazyprogrammer.com/wp-content/uploads/2016/05/Difference-Between-Stack-and-Queue.jpg)    
+
 **Stack**：像是把盤子疊起來，要拿只能拿最上面的，先進後出。  
 * 為什麼要有stack？
     * 因為有undo（復原）和回到上一頁的需求。  
