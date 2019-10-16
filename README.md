@@ -14,4 +14,5 @@
   * [流程圖](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/QuickSort.png)
 
 ## 額外練習
-* [**206. Reverse Linked List**](https://github.com/ChengShaoChi/Learning-Note/tree/master/leetcode%E9%A1%8D%E5%A4%96%E7%B7%B4%E7%BF%92)
+* **LeetCode**
+  * [**206. Reverse Linked List**](https://github.com/ChengShaoChi/Learning-Note/tree/master/leetcode%E9%A1%8D%E5%A4%96%E7%B7%B4%E7%BF%92)
