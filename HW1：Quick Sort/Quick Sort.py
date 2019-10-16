@@ -1,4 +1,4 @@
-list1 = [9, 4, 13, 2, 8, 11, 8]
+a = [9, 4, 13, 2, 8, 11, 8]
 
 def QuickSort(list):
     if len(list)<=1:
@@ -19,5 +19,5 @@ def QuickSort(list):
             right_list.append(i)
     return QuickSort(left_list) + middle_list + QuickSort(right_list)#左邊跟右邊的list還要繼續分
 
-print(QuickSort(list1))
+print(QuickSort(a))
 
