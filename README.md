@@ -8,5 +8,6 @@
 ## 作業
 * [**HW1 Quick Sort**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW1%EF%BC%9AQuick%20Sort)
   * [ipynb檔](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/Quick%20Sort.ipynb)
+  * [READM](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/README.md)
   * [程式碼](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/Quick%20Sort.py)
   * [流程圖](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/QuickSort.png)
