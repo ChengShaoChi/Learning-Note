@@ -6,7 +6,5 @@
     2.小於此元素的放到左邊的list，大於此元素的放到右邊的list，相等的放到中間的list。    
     3.基準點左邊和右邊視為兩個數列，並重複做以上動作直到數列剩下一個元素或沒有元素了。    
     4.三個list串聯在一起並返回。    
-* jupyter nbviewer：    
-    https://nbviewer.jupyter.org/github/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/Quick%20Sort.ipynb
-    
+
 參考資料：https://emn178.pixnet.net/blog/post/88613503-%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E6%B3%95(quick-sort)
