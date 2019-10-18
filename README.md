@@ -12,7 +12,7 @@
   * [README](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/README.md)
   * [程式碼](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/Quick%20Sort.py)
   * [流程圖](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/QuickSort.png)
-
+  * [jupyter nbviewer](https://nbviewer.jupyter.org/github/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/Quick%20Sort.ipynb) 
 ## 額外練習
 * **LeetCode**
   * [**206. Reverse Linked List**](https://github.com/ChengShaoChi/Learning-Note/tree/master/leetcode%E9%A1%8D%E5%A4%96%E7%B7%B4%E7%BF%92)
