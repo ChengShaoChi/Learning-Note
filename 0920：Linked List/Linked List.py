@@ -11,6 +11,7 @@ class SingleLinkedList:
         self.head = None
         self.tail = None
         return
+    
     def add_list_item(self, item): 
         if not isinstance(item, ListNode):
             item = ListNode(item)
@@ -22,5 +23,3 @@ class SingleLinkedList:
     
         self.tail = item
         return
-
-list1 = SingleLinkedList()
