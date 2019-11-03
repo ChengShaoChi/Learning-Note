@@ -10,11 +10,11 @@
 * 利用Heap結構來完成排序。    
 * 分成兩個步驟：    
    1.把陣列製作成最小堆積或最大堆積。    
-   2.利用最小堆積或最大堆積來進行排序。
-    
+   2.利用最小堆積或最大堆積來進行排序。    
+   ![image](https://github.com/ChengShaoChi/Learning-Note/blob/master/Image/HeapSortUnderstandingtheCode.png?raw=true)    
+   截圖自：https://youtu.be/MtQL_ll5KhQ    
    
-
 參考資料：    
-https://zh.wikipedia.org/wiki/%E5%A0%86%E7%A9%8D
+https://zh.wikipedia.org/wiki/%E5%A0%86%E7%A9%8D    
 https://magiclen.org/heap-sort/   
 http://alrightchiu.github.io/SecondRound/comparison-sort-heap-sortdui-ji-pai-xu-fa.html
