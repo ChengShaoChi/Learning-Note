@@ -21,7 +21,7 @@
    以Max Heap為例：    
    ![image](https://github.com/ChengShaoChi/Learning-Note/blob/master/Image/HeapSortUnderstandingtheCode.png?raw=true)        
    截圖自：https://youtu.be/MtQL_ll5KhQ    
-* 我的理解：先把陣列製作成Max Heap，讓 **從下面數來第一個有小孩的節點（index = n//2-1）** 開始跟它的左右小孩比，比小孩小就交換，製造成Max Heap後，開始排序，方式是把array的第一個值跟最後一個值交換，一換完，最大值跑到array的最後一位，就不用管它了（array的長度減1），其他的要再跑heapify一次，讓第一個節點（index = 0）跟它的小孩比。比完再換位置，循環。
+* 我的理解：先把陣列製作成Max Heap，讓 **從下面數來第一個有小孩的節點（index = n//2-1）** 開始跟它的左右小孩比，比小孩小就交換，製造完Max Heap後，開始排序，方式是把array的第一個值跟最後一個值交換，一換完，最大值跑到array的最後一位，就不用管它了（array的長度減1），其他的要再跑heapify一次，讓第一個節點（index = 0）跟它的小孩比。比完再換位置，循環。
    
 參考資料：    
 https://zh.wikipedia.org/wiki/%E5%A0%86%E7%A9%8D    
