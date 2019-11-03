@@ -1,8 +1,8 @@
 ## Heap Sort
 ### 目錄
 * [文字說明](#文字說明)
-   * [Heap](#Heap（堆積）)
-   * [Heap Sort](#Heap Sort（堆積排序法）)
+   * Heap
+   * Heap Sort
 * [流程圖](#流程圖)
 * [學習歷程](#學習歷程)
 ### 文字說明
