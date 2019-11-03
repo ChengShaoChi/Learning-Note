@@ -8,9 +8,9 @@
 
 **Heap Sort（堆積排序法）**
 * 利用Heap結構來完成排序。    
-* 分成兩個步驟：    
-   1.把陣列製作成Min Heap或Max Heap。    
-   2.利用Min Heap或Max Heap來進行排序。    
+* 分成兩個步驟／函式：    
+   1.heapify：把陣列製作成Min Heap或Max Heap。    
+   2.heapSort：利用Min Heap或Max Heap來進行排序。    
    
    以Max Heap為例：    
    ![image](https://github.com/ChengShaoChi/Learning-Note/blob/master/Image/HeapSortUnderstandingtheCode.png?raw=true)        
