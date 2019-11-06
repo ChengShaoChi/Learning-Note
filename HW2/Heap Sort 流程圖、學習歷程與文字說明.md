@@ -29,3 +29,6 @@ https://magiclen.org/heap-sort/
 http://alrightchiu.github.io/SecondRound/comparison-sort-heap-sortdui-ji-pai-xu-fa.html
 ### 流程圖
 ### 學習歷程
+```Python
+class Solution(object):
+    def heap_sort(self, nums):
