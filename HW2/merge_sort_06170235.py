@@ -1,4 +1,4 @@
-#####merge_sort_06170235.py
+##### merge_sort_06170235.py
 
 class Solution(object):
     #函式一merge：排序並合併，有參考
