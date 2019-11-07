@@ -32,6 +32,7 @@
 [堆積排序(Heap Sort)演算法，利用完全二元樹來排序的演算法](https://magiclen.org/heap-sort/)   
 [Comparison Sort: Heap Sort(堆積排序法)](http://alrightchiu.github.io/SecondRound/comparison-sort-heap-sortdui-ji-pai-xu-fa.html)
 ### 流程圖
+<div align=center><img src="https://github.com/ChengShaoChi/Learning-Note/blob/master/Image/Heap%20Sort.png?raw=true"/></div>    
 ### 學習歷程
 先照著圖二打出結構。
 ```Python
