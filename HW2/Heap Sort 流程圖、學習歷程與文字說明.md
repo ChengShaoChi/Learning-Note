@@ -11,9 +11,9 @@
     * Complete Binary Tree（完全二元樹）：是一種二元樹，只有最底下那層的節點數量不必填滿，且必須由左至右填入，其他的每個父節點都有兩個子節點。有 **parent-child** 關係，index(i)的left child必定在index(2i+1)，right child必定在index(2i+2)，parent必定在index((i-1)//2)。
     * Min Heap（最小堆積）：由大到小**遞減**排序，上層節點的值必會小於下層節點的值。    
     * Max Heap（最大堆積）：由小到大**遞增**排序，上層節點的值必會大於下層節點的值。    
-    
-    <div align=center>▼圖一、左邊為Min Heap（最小堆積），右邊為Max Heap（最大堆積）。</div>     
+        
     <div align=center><img src="https://github.com/ChengShaoChi/Learning-Note/blob/master/Image/Min%EF%BC%8FMax%20Heap.png?raw=true"/></div>    
+    <div align=center>▲圖一、左邊為Min Heap（最小堆積），右邊為Max Heap（最大堆積）。</div>     
 
 #### Heap Sort（堆積排序法）
 * 利用Heap結構來完成排序。
