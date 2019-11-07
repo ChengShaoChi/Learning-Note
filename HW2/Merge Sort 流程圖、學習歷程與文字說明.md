@@ -9,8 +9,8 @@
   * Divide and Conquer（分治法）：「分而治之」，就是把一個複雜的問題分成兩個或更多的相同或相似的子問題，直到最後子問題可以簡單的直接求解，原問題的解即子問題的解的合併。
 * 分成兩個步驟：    
    1.分割：遞迴地把目前陣列平均分割成兩半。    
-   2.合併：在保持元素順序的同時將上一步得到的子陣列整合到一起。
-   ![image](https://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F#/media/File:Merge-sort-example-300px.gif)
+   2.合併：在保持元素順序的同時將上一步得到的子陣列整合到一起。    
+   ![image](https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif)
 * 我的理解：把陣列不斷分割到只剩一個元素後，兩個兩個進行排序並合併，直到全部合併完成。
    
 參考資料：    
