@@ -29,6 +29,3 @@ class Solution(object):
             #比完再換位置，循環
         
         print(arr)
-        
-output = Solution().heapSort([9, 10, 8, 6, 7, 11])
-output
