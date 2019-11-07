@@ -32,9 +32,9 @@
 [堆積排序(Heap Sort)演算法，利用完全二元樹來排序的演算法](https://magiclen.org/heap-sort/)   
 [Comparison Sort: Heap Sort(堆積排序法)](http://alrightchiu.github.io/SecondRound/comparison-sort-heap-sortdui-ji-pai-xu-fa.html)
 ### 流程圖
-<div align=center><img src="https://github.com/ChengShaoChi/Learning-Note/blob/master/Image/Heap%20Sort.png?raw=true"/></div>    
-### 學習歷程
-先照著圖二打出結構。
+![image](https://github.com/ChengShaoChi/Learning-Note/blob/master/Image/Heap%20Sort.png?raw=true)
+### 學習歷程    
+先照著圖二打出結構。    
 ```Python
 def heapify(arr, n, i):
     #Create a Max Heap
@@ -47,7 +47,8 @@ def heapSort(arr):
         arr[0], arr[i] = arr[i], arr[0]
         heapify(arr, i, 0)
 ```
-開始試著製造出Max Heap，heapify這段參考[Python Program for Heap Sort - GeeksforGeeks](https://www.geeksforgeeks.org/python-program-for-heap-sort/)。
+開始試著製造出Max Heap，heapify這段參考[Python Program for Heap Sort - GeeksforGeeks](https://www.geeksforgeeks.org/python-program-for-heap-sort/)。    
+
 ```Python
 def heapify(arr, n, i):
     n = len(arr)
@@ -77,7 +78,7 @@ arr = [9, 10, 8, 6, 7, 11]
 heapSort(arr)
 ```
 出現IndexError: list index out of range。    
-修正：要確定小孩存在（小孩的index < n）。
+修正：要確定小孩存在（小孩的index < n）。    
 ```Python
 def heapify(arr, n, i):
     n = len(arr)
