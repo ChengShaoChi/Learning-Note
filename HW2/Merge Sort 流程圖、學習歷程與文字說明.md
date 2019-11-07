@@ -24,6 +24,7 @@
 [合併排序法(Merge Sort) @ 小殘的程式光廊:: 痞客邦::](https://emn178.pixnet.net/blog/post/87965707)
 
 ### 流程圖
+![image](https://github.com/ChengShaoChi/Learning-Note/blob/master/Image/Merge%20Sort.png?raw=true)
 ### 學習歷程
 先嘗試寫出分割的函式，這裡我參考我在Quick Sort的分堆寫法。
 ```Python
