@@ -25,6 +25,6 @@
     
 參考資料：    
 [排序(Sorting)](http://spaces.isu.edu.tw/upload/18833/3/web/sorting.htm#_Toc229730286)    
-[[演算法] 排序演算法(Sort Algorithm)](http://notepad.yehyeh.net/Content/Algorithm/Sort/Sort.php)
+[[演算法] 排序演算法(Sort Algorithm)](http://notepad.yehyeh.net/Content/Algorithm/Sort/Sort.php)    
 [合併排序(Merge Sort) - - kopu.chat](https://kopu.chat/2017/08/10/%E5%90%88%E4%BD%B5%E6%8E%92%E5%BA%8F-merge-sort/)    
 [排序演算法- 維基百科，自由的百科全書 - Wikipedia](https://zh.wikipedia.org/wiki/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95#%E7%A9%A9%E5%AE%9A%E7%9A%84%E6%8E%92%E5%BA%8F)
