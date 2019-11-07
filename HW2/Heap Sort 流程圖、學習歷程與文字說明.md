@@ -12,7 +12,7 @@
     * Min Heap（最小堆積）：由大到小**遞減**排序，上層節點的值必會小於下層節點的值。    
     * Max Heap（最大堆積）：由小到大**遞增**排序，上層節點的值必會大於下層節點的值。    
     
-    ▼圖一、左圖為Min Heap（最小堆積），右圖為Max Heap（最大堆積）。    
+    ▼圖一、左邊為Min Heap（最小堆積），右邊為Max Heap（最大堆積）。    
     <div align=center><img src="https://github.com/ChengShaoChi/Learning-Note/blob/master/Image/Min%EF%BC%8FMax%20Heap.png?raw=true"/></div>    
     圖片來源：[Heap Data Structure - GeeksforGeeks](https://www.geeksforgeeks.org/heap-data-structure/)
 
