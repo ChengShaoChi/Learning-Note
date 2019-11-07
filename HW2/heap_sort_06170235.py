@@ -1,4 +1,4 @@
-#####heap_sort_06170235.py
+##### heap_sort_06170235.py
 
 class Solution(object):
     #函式一heapify：把陣列製作成Max Heap，遞增排序，有參考
