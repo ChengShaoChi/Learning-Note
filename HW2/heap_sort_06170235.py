@@ -1,7 +1,7 @@
 ##### heap_sort_06170235.py
 
 class Solution(object):
-    #函式一heapify：把陣列製作成Max Heap，遞增排序，有參考
+    #函式一heapify：把陣列製作成Max Heap，遞增排序，有參考https://www.geeksforgeeks.org/python-program-for-heap-sort/
     def heapify(arr, n, i):#n是heap的長度，i是root的index
         M = i#先令最大的是root
         l = i * 2 + 1#左邊小孩的index
