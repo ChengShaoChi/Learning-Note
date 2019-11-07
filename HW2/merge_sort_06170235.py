@@ -1,7 +1,7 @@
 ##### merge_sort_06170235.py
 
 class Solution(object):
-    #函式一merge：排序並合併，有參考
+    #函式一merge：排序並合併，有參考https://newaurora.pixnet.net/blog/post/224658923-%E5%90%88%E4%BD%B5%E6%8E%92%E5%BA%8F%E6%B3%95---%E4%BD%BF%E7%94%A8python
     def merge(self, left_arr, right_arr):
         if len(left_arr) == 0:#如果左邊沒有元素了，就直接回傳右邊的
             return right_arr
