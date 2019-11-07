@@ -14,7 +14,6 @@
     
     <div align=center>▼圖一、左邊為Min Heap（最小堆積），右邊為Max Heap（最大堆積）。</div>     
     <div align=center><img src="https://github.com/ChengShaoChi/Learning-Note/blob/master/Image/Min%EF%BC%8FMax%20Heap.png?raw=true"/></div>    
-    圖片來源：[Heap Data Structure - GeeksforGeeks](https://www.geeksforgeeks.org/heap-data-structure/)
 
 #### Heap Sort（堆積排序法）
 * 利用Heap結構來完成排序。
