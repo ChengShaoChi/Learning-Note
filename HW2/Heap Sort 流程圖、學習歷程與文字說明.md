@@ -13,7 +13,7 @@
     * Max Heap（最大堆積）：由小到大**遞增**排序，上層節點的值必會大於下層節點的值。    
     
     ▼圖一、左圖為Min Heap（最小堆積），右圖為Max Heap（最大堆積）。    
-    ![image](https://www.geeksforgeeks.org/wp-content/uploads/MinHeapAndMaxHeap.png)    
+    <div align=center><img src="https://github.com/ChengShaoChi/Learning-Note/blob/master/Image/Min%EF%BC%8FMax%20Heap.png?raw=true"/></div>    
     圖片來源：[Heap Data Structure - GeeksforGeeks](https://www.geeksforgeeks.org/heap-data-structure/)
 
 #### Heap Sort（堆積排序法）
@@ -23,7 +23,7 @@
    2.heapSort：利用Min Heap或Max Heap來進行排序。    
    
    ▼圖二、以Max Heap為例：    
-   ![image](https://github.com/ChengShaoChi/Learning-Note/blob/master/Image/HeapSortUnderstandingtheCode.png?raw=true)        
+   <div align=center><img src="https://github.com/ChengShaoChi/Learning-Note/blob/master/Image/HeapSortUnderstandingtheCode.png?raw=true"/></div>        
    圖片來源：截圖自[Heap Sort | GeeksforGeeks - YouTube](https://youtu.be/MtQL_ll5KhQ)    
 * 我的理解：先把陣列製作成Max Heap，讓 **從下面數來第一個有小孩的節點（index = n//2-1）** 開始跟它的左右小孩比，比小孩小就交換，製造完Max Heap後，開始排序，方式是把array的第一個值跟最後一個值交換，一換完，最大值跑到array的最後一位，就不用管它了（array的長度減1），其他的要再跑heapify一次，讓第一個節點（index = 0）跟它的小孩比。比完再換位置，循環。
    
