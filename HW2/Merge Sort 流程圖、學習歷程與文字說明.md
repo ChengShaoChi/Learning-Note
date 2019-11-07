@@ -10,7 +10,8 @@
 * 分成兩個步驟：    
    1.分割：遞迴地把目前陣列平均分割成兩半。    
    2.合併：在保持元素順序的同時將上一步得到的子陣列整合到一起。    
-   ![image](https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif)    
+   <div align=center>▼圖一、Merge Sort步驟</div>    
+   <div align=center><img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif"/></div>    
    圖片來源：[合併排序- 維基百科，自由的百科全書 - Wikipedia](https://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F)
 * 我的理解：把陣列不斷分割到只剩一個元素後，兩個兩個進行排序並合併，直到全部合併完成。
    
