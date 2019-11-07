@@ -25,6 +25,119 @@
 
 ### 流程圖
 ### 學習歷程
+先嘗試寫出分割的函式，這裡我參考我在Quick Sort的分堆寫法。
+```Python
+def mergeSort(arr):
+    if len(arr) <= 1:
+        return arr
+    
+    m = len(arr) // 2
+    
+    left_list = []
+    right_list = []
+    
+    for i in range(len(arr)):
+        if i < m:
+            left_list.append(arr[i])
+        else:
+            right_list.append(arr[i])
+    return mergeSort(left_list) + mergeSort(right_list)
+
+arr = [9, 10, 8, 6, 7, 4, 11, 5, 9, 8]
+mergeSort(arr)
+```
+結果顯示：[9, 10, 8, 6, 7, 4, 11, 5, 9, 8]    
+修正：「+」會把小list都合成一個list，要把+改成「,」。
+```Python
+def mergeSort(arr):
+    if len(arr) <= 1:
+        return arr
+    
+    m = len(arr) // 2
+    
+    left_list = []
+    right_list = []
+    
+    for i in range(len(arr)):
+        if i < m:
+            left_list.append(arr[i])
+        else:
+            right_list.append(arr[i])
+    return mergeSort(left_list), mergeSort(right_list)
+
+arr = [9, 10, 8, 6, 7, 4, 11, 5, 9, 8]
+mergeSort(arr)
+```
+結果顯示：((([9], [10]), ([8], ([6], [7]))), (([4], [11]), ([5], ([9], [8]))))    
+成功分割了。    
+
+開始試著寫出合併的函式，merge這段參考[合併排序法- 使用Python(Merge sort) @ 史丹利愛碎念:: 痞客邦::](https://newaurora.pixnet.net/blog/post/224658923-%E5%90%88%E4%BD%B5%E6%8E%92%E5%BA%8F%E6%B3%95---%E4%BD%BF%E7%94%A8python)。
+```Python
+def merge(left_arr, right_arr):
+    if len(left_arr) == 0:
+        return right_arr
+    elif len(right_arr) == 0:
+        return left_arr
+    else:
+        if left_arr[0] < right_arr[0]:
+            return [left_arr[0]] + merge(left_arr[1:], right_arr)
+        else:
+            return [right_arr[0]] + merge(left_arr, right_arr[1:])
+
+def mergeSort(arr):
+    if len(arr) <= 1:
+        return arr
+        
+    m = len(arr)//2
+    
+    left_arr = []
+    right_arr = []
+    
+    for i in range(len(arr)):
+        if i < m:
+            left_arr.append(arr[i])
+        else:
+            right_arr.append(arr[i])
+    return merge(mergeSort(left_arr), mergeSort(right_arr))
+
+arr = [9, 10, 8, 6, 7, 11]
+mergeSort(arr)
+```
+結果顯示：[6, 7, 8, 9, 10, 11]    
+成功了。    
+
+寫成class。
 ```Python
 class Solution(object):
-    def merge_sort(self, nums):
+    def merge(self, left_arr, right_arr):
+        if len(left_arr) == 0:
+            return right_arr
+        elif len(right_arr) == 0:
+            return left_arr
+        else:
+            if left_arr[0] < right_arr[0]:
+                return [left_arr[0]] + self.merge(left_arr[1:], right_arr)
+            else:
+                return [right_arr[0]] + self.merge(left_arr, right_arr[1:])
+                
+    def mergeSort(self, arr):
+        if len(arr) <= 1:
+            return arr
+            
+        m = len(arr)//2
+        
+        left_arr = []
+        right_arr = []
+        
+        for i in range(len(arr)):
+            if i < m:
+                left_arr.append(arr[i])
+            else:
+                right_arr.append(arr[i])
+        return self.merge(self.mergeSort(left_arr), self.mergeSort(right_arr))
+        
+output = Solution().mergeSort([9, 10, 8, 6, 7, 11])
+output
+```
+結果顯示：[6, 7, 8, 9, 10, 11]    
+完成。
