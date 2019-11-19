@@ -16,7 +16,7 @@
   * [Meap Sort 流程圖、學習歷程與文字說明](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW2/Merge%20Sort%20%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.md)    
   * [heap_sort_06170235.py](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW2/heap_sort_06170235.py)    
   * [Heap Sort 流程圖、學習歷程與文字說明](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW2/Heap%20Sort%20%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.md)    
-  * [Merge Sort／Heap Sort之比較.md](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW2/Merge%20Sort%EF%BC%8FHeap%20Sort%E4%B9%8B%E6%AF%94%E8%BC%83.md)
+  * [Merge Sort／Heap Sort之比較](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW2/Merge%20Sort%EF%BC%8FHeap%20Sort%E4%B9%8B%E6%AF%94%E8%BC%83.md)
 * [**HW1 Quick Sort**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW1%EF%BC%9AQuick%20Sort)
   * [ipynb檔](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/Quick%20Sort.ipynb)
   * [README](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/README.md)
