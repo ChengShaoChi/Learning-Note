@@ -19,3 +19,5 @@ class Solution(object):
         root.left = self.sortedArrayToBST(nums[:middle])
         root.right = self.sortedArrayToBST(nums[middle+1:])
         return root
+
+#參考資料：https://blog.csdn.net/fuxuemingzhu/article/details/70665213
