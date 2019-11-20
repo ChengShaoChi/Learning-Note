@@ -21,4 +21,4 @@ class Solution(object):
         else:#如果輸入的val比root的值大
             return self.searchBST(root.right, val)
 
-參考資料：https://blog.csdn.net/fuxuemingzhu/article/details/81015754
+#參考資料：https://blog.csdn.net/fuxuemingzhu/article/details/81015754
