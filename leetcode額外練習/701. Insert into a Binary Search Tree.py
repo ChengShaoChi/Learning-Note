@@ -20,4 +20,4 @@ class Solution(object):
             root.right = self.insertIntoBST(root.right, val)#就把右邊當root
         return root
         
-參考資料：https://blog.csdn.net/fuxuemingzhu/article/details/82385503
+#參考資料：https://blog.csdn.net/fuxuemingzhu/article/details/82385503
