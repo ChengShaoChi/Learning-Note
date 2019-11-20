@@ -13,11 +13,11 @@ class Solution(object):
         :rtype: TreeNode
         """
         if not root:#如果沒有root，
-            return TreeNode(val)#輸入的val就當root
-        elif val < root.val:#如果輸入的val比root的值小
-            root.left = self.insertIntoBST(root.left, val)#就把左邊當root
-        else:#如果輸入的val比root的值大
-            root.right = self.insertIntoBST(root.right, val)#就把右邊當root
+            return TreeNode(val)
+        elif val < root.val:
+            root.left = self.insertIntoBST(root.left, val)
+        else:
+            root.right = self.insertIntoBST(root.right, val)
         return root
         
 #參考資料：https://blog.csdn.net/fuxuemingzhu/article/details/82385503
