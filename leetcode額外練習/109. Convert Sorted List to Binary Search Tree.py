@@ -35,4 +35,4 @@ class Solution(object):
                 head = head.next
             return self.sortedArrayToBST(nums)
 
-參考資料：https://blog.csdn.net/qqxx6661/article/details/76168244
+#參考資料：https://blog.csdn.net/qqxx6661/article/details/76168244
