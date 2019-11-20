@@ -1,8 +1,8 @@
 # 資料結構與演算法
 ## 目錄
-* [**作業**](作業)
-* [**筆記**](筆記)
-* [**額外練習**](額外練習)
+* [**作業**](#作業)
+* [**筆記**](#筆記)
+* [**額外練習**](#額外練習)
 
 ## 作業
 * [**HW3**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW3)
@@ -32,4 +32,4 @@
 * **LeetCode**
   * [**206. Reverse Linked List**](https://github.com/ChengShaoChi/Learning-Note/blob/master/leetcode%E9%A1%8D%E5%A4%96%E7%B7%B4%E7%BF%92/206.%20Reverse%20Linked%20List.py)
   * [**108. Convert Sorted Array to Binary Search Tree**](https://github.com/ChengShaoChi/Learning-Note/blob/master/leetcode%E9%A1%8D%E5%A4%96%E7%B7%B4%E7%BF%92/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)
-  * [**109. Convert Sorted List to Binary Search Tree](https://github.com/ChengShaoChi/Learning-Note/blob/master/leetcode%E9%A1%8D%E5%A4%96%E7%B7%B4%E7%BF%92/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.py)
+  * [**109. Convert Sorted List to Binary Search Tree**](https://github.com/ChengShaoChi/Learning-Note/blob/master/leetcode%E9%A1%8D%E5%A4%96%E7%B7%B4%E7%BF%92/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.py)
