@@ -3,6 +3,11 @@ class TreeNode(object):
         self.val = x
         self.left = None
         self.right = None
+        """
+        :type val: int
+        :type left: TreeNode or None
+        :type right: TreeNode or None
+        """
 
 class Solution(object):
     def insert(self, root, val):
