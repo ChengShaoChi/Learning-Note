@@ -222,8 +222,9 @@ class TreeNode(object):
         :type new_val: int
         :rtype:TreeNode(the root of new completed binary search tree) (cannot search())
         """
-        return self.delete(root, target)
-        return self.insert(root, new_val)
+        return self.delete(root, target)#刪掉所有target
+        return self.insert(root, new_val)#新增new_val
+        return root
 ```
 <div align=center>▼圖四、把12改成4的流程圖</div>    
 <div align=center><img src="https://github.com/ChengShaoChi/Learning-Note/blob/master/Image/Modify12.png?raw=true"/></div>
