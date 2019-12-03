@@ -22,9 +22,9 @@ class SingleLinkedList:
         if self.head is None:#如果原本沒有head
             self.head = item#那head就是item
         else:#如果有頭
-            self.tail.next = item#那就讓item接在tail後面
+            self.tail.next = item#那就讓item接在tail後面（本來的tail指向新的節點）
     
-        self.tail = item#tail就是item
+        self.tail = item#新的tail就是item
         return
     #在取得item之後，要檢查item是否是一個節點，若不是的話則使用ListNode(item)建立一個帶有item資料的節點。
     
