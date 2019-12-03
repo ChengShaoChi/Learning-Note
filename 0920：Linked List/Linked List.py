@@ -27,4 +27,5 @@ class SingleLinkedList:
         self.tail = item#tail就是item
         return
     #在取得item之後，要檢查item是否是一個節點，若不是的話則使用ListNode(item)建立一個帶有item資料的節點。
+    
 #參考資料：https://medium.com/@tobby168/%E7%94%A8python%E5%AF%A6%E4%BD%9Clinked-list-524441133d4d
