@@ -5,6 +5,9 @@
 * [**額外練習**](#額外練習)
 
 ## 作業
+* [**HW4**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW4)
+  * [hash_table_06170235.py](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW4/hash_table_06170235.py)
+  * [Hash Table流程圖、學習歷程與Hash Table與Hash function原理](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW4/Hash%20Table%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87Hash%20Table%E8%88%87Hash%20function%E5%8E%9F%E7%90%86.md)
 * [**HW3**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW3)
   * [binary_search_tree_06170235.py](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW3/binary_search_tree_06170235.py)
   * [Binary Search Tree流程圖、學習歷程與BST原理](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW3/Binary%20Search%20Tree%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87BST%E5%8E%9F%E7%90%86.md)
