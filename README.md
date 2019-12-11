@@ -5,6 +5,9 @@
 * [**額外練習**](#額外練習)
 
 ## 作業
+* [**HW5**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW5)
+  * [BFS_06170235.py](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW5/BFS_06170235.py)
+  * [BFS與DFS流程圖、程式碼學習歷程與BFS與DFS原理與比較](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW5/BFS%E8%88%87DFS%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E7%A8%8B%E5%BC%8F%E7%A2%BC%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87BFS%E8%88%87DFS%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83.md)
 * [**HW4**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW4)
   * [hash_table_06170235.py](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW4/hash_table_06170235.py)
   * [Hash Table流程圖、學習歷程與Hash Table與Hash function原理](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW4/Hash%20Table%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87Hash%20Table%E8%88%87Hash%20function%E5%8E%9F%E7%90%86.md)
