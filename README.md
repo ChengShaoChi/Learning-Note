@@ -36,6 +36,8 @@
 
 ## 額外練習
 * **LeetCode**
-  * [**206. Reverse Linked List**](https://github.com/ChengShaoChi/Learning-Note/blob/master/leetcode%E9%A1%8D%E5%A4%96%E7%B7%B4%E7%BF%92/206.%20Reverse%20Linked%20List.py)
   * [**108. Convert Sorted Array to Binary Search Tree**](https://github.com/ChengShaoChi/Learning-Note/blob/master/leetcode%E9%A1%8D%E5%A4%96%E7%B7%B4%E7%BF%92/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)
   * [**109. Convert Sorted List to Binary Search Tree**](https://github.com/ChengShaoChi/Learning-Note/blob/master/leetcode%E9%A1%8D%E5%A4%96%E7%B7%B4%E7%BF%92/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.py)
+  * [**206. Reverse Linked List**](https://github.com/ChengShaoChi/Learning-Note/blob/master/leetcode%E9%A1%8D%E5%A4%96%E7%B7%B4%E7%BF%92/206.%20Reverse%20Linked%20List.py)
+  * [**700. Search in a Binary Search Tree**](https://github.com/ChengShaoChi/Learning-Note/blob/master/leetcode%E9%A1%8D%E5%A4%96%E7%B7%B4%E7%BF%92/700.%20Search%20in%20a%20Binary%20Search%20Tree.py)
+  * [**701. Insert into a Binary Search Tree**](https://github.com/ChengShaoChi/Learning-Note/blob/master/leetcode%E9%A1%8D%E5%A4%96%E7%B7%B4%E7%BF%92/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py)
