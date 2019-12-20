@@ -49,3 +49,5 @@ class Graph:
                     iffound.append(i)
                     
         return found
+
+#參考資料：https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
