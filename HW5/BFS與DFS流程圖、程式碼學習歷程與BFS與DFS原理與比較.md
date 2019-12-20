@@ -5,8 +5,8 @@
   * [DFS](dfs)
 * [程式碼學習歷程](#程式碼學習歷程)
 * [BFS與DFS原理與比較](#bfs與dfs原理與比較)
-  * [BFS原理](bfs原理)
-  * [DFS原理](dfs原理)
+  * [BFS原理](BFS原理)
+  * [DFS原理](DFS原理)
   * [BFS與DFS比較](#bfs與dfs比較)
   
 ### BFS與DFS流程圖
