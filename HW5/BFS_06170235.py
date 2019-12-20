@@ -13,7 +13,7 @@ class Graph:
         found = []#創一個found，放被移除queue的。
         
         queue.append(s)#把起點放進queue裡，
-        iffound.append(s)#並標記為找到過了的。
+        iffound.append(s)#並加進iffound。
         
         while queue:#當queue裡有點，
             s = queue.pop(0)#把它最前面的移除（當起點），
@@ -22,7 +22,7 @@ class Graph:
             for i in self.graph[s]:#找到與其相鄰的（ex：這題的2的相鄰的就是0、3），
                 if i not in iffound:#如果是還沒找到過的，
                     queue.append(i)#將其放進queue裡，
-                    iffound.append(i)#並標記為找到過了的。
+                    iffound.append(i)#並加進iffound，代表被找到過的。
                     
         return found
     
@@ -32,12 +32,12 @@ class Graph:
         found = []#創一個found，放被移除stack的
         
         found.append(s)#先把s放進found，
-        iffound.append(s)#並標記為找到過了的。
+        iffound.append(s)#並加進iffound。
         
         for i in self.graph[s]:#找到與其相鄰的（ex：這題的2的相鄰的就是0、3），
-            if i not in iffound:#如果是還沒找到過的（False），
+            if i not in iffound:#如果是還沒找到過的，
                 stack.append(i)#將其放進stack裡，
-                iffound.append(i)#並標記為找到過了的。
+                iffound.append(i)#並加進iffound，代表被找到過的。
                 
         while stack:#當stack裡有點，
             s = stack.pop(-1)#把它最上面的移除（當起點），
