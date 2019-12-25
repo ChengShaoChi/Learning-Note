@@ -36,6 +36,11 @@
 * [**0927 Stack & Queue**](https://github.com/ChengShaoChi/Learning-Note/tree/master/0927%EF%BC%9AStack%20%26%20Queue)  
 * [**1001 Set**](https://github.com/ChengShaoChi/Learning-Note/tree/master/1001%EF%BC%9ASet)  
 * [**1004 Insertion Sort**](https://github.com/ChengShaoChi/Learning-Note/tree/master/1004%EF%BC%9AInsertion%20Sort)    
+* [**1018 Quick Sort**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW1%EF%BC%9AQuick%20Sort)
+* [**1025 Heap Sort與Merge Sort**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW2)
+* **1101 Binary Tree**
+* [**1108 Binary Search Tree**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW3)
+* **1115 Red Black Tree**
 
 ## 額外練習
 * **LeetCode**
