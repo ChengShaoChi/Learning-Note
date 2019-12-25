@@ -5,6 +5,9 @@
 * [**額外練習**](#額外練習)
 
 ## 作業
+* [**HW6**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW6)
+  * [Dijkstra_06170235.py](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW6/Dijkstra_06170235.py)
+  * [Dijkstra與Kruskal流程圖、程式碼學習歷程與Dijkstra與Kruskal原理說明](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW6/Dijkstra%E8%88%87Kruskal%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E7%A8%8B%E5%BC%8F%E7%A2%BC%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87Dijkstra%E8%88%87Kruskal%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E.md)
 * [**HW5**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW5)
   * [BFS_06170235.py](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW5/BFS_06170235.py)
   * [BFS與DFS流程圖、程式碼學習歷程與BFS與DFS原理與比較](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW5/BFS%E8%88%87DFS%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E7%A8%8B%E5%BC%8F%E7%A2%BC%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87BFS%E8%88%87DFS%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83.md)
