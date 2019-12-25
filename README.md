@@ -41,6 +41,8 @@
 * **1101 Binary Tree**
 * [**1108 Binary Search Tree**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW3)
 * **1115 Red Black Tree**
+* [**1122 Hash Table**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW4)
+* [**1129、1206 BFS與DFS**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW5)
 
 ## 額外練習
 * **LeetCode**
