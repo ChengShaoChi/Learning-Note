@@ -1,1 +1,12 @@
-
+## Dijkstra與Kruskal
+### 目錄
+* [Dijkstra與Kruskal流程圖](#dijkstra與kruskal流程圖)
+* [程式碼學習歷程](#程式碼學習歷程)
+* [Dijkstra與Kruskal原理說明](#dijkstra與kruskal原理說明)
+  * [Dijkstra原理](#dijkstra原理)
+  * [Kruskal原理](#kruskal原理)
+### Dijkstra與Kruskal流程圖
+### 程式碼學習歷程
+### Dijkstra與Kruskal原理說明
+#### Dijkstra原理
+#### Kruskal原理
