@@ -38,7 +38,7 @@
 * [**1004 Insertion Sort**](https://github.com/ChengShaoChi/Learning-Note/tree/master/1004%EF%BC%9AInsertion%20Sort)    
 * [**1018 Quick Sort**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW1%EF%BC%9AQuick%20Sort)
 * [**1025 Heap Sort與Merge Sort**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW2)
-* **1101 Binary Tree**
+* [**1101 Binary Tree**](https://github.com/ChengShaoChi/Learning-Note/tree/master/1101%EF%BC%9ABinary%20Tree)
 * [**1108 Binary Search Tree**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW3)
 * **1115 Red Black Tree**
 * [**1122 Hash Table**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW4)
