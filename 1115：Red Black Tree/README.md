@@ -13,7 +13,6 @@
     * 左旋轉
     * 右旋轉
 
-原文網址：https://kknews.cc/news/ggpo4by.html
 參考資料：    
-[紅黑樹- 維基百科，自由的百科全書 - Wikipedia](https://zh.wikipedia.org/wiki/%E7%BA%A2%E9%BB%91%E6%A0%91)
+[紅黑樹- 維基百科，自由的百科全書 - Wikipedia](https://zh.wikipedia.org/wiki/%E7%BA%A2%E9%BB%91%E6%A0%91)    
 [五分鐘搞懂什麼是紅黑樹（全程圖解） - 每日頭條](https://kknews.cc/zh-tw/news/ggpo4by.html)
