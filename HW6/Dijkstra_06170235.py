@@ -8,6 +8,8 @@ class Graph():
                     for row in range(vertices)]
         #創一個vertices乘vertices的矩陣，裡面都是0。column：有幾直／row：有幾橫。
         
+    def addEdge(self,u,v,w):
+        
     def minDistance(self, dist, found):#在還沒找到過的點中找到有最小距離的點
         unlm = sys.maxsize#令到還不能到的點的距離是無限大，這裡用Python中整數的最大值代替
         
@@ -36,3 +38,5 @@ class Graph():
         for i in range(self.V):
             SSSP[str(i)] = dist[i]
         return SSSP
+      
+    def Kruskal(self):
