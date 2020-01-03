@@ -80,7 +80,7 @@ class Graph():
                 
         MST = {}
         for u, v, weight in result:
-            MST[u, v] = weight
+            MST[str(u)+'-'+str(v)] = weight
         return MST
       
 #參考資料：
