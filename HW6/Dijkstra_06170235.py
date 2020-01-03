@@ -48,34 +48,34 @@ class Graph():
         return self.find(parent, parent[i])
       
     def union(self, parent, l, x, y):
-        xroot = self.find(parent, x)
-        yroot = self.find(parent, y)
+        x_r = self.find(parent, x)
+        y_r = self.find(parent, y)
 
-        if l[xroot] < l[yroot]:
-            parent[xroot] = yroot
-        elif l[xroot] > l[yroot]:
-            parent[yroot] = xroot
+        if l[x_r] < l[y_r]:
+            parent[x_r] = y_r
+        elif l[x_r] > l[y_r]:
+            parent[y_r] = x_r
         else : 
-            parent[yroot] = xroot 
-            l[xroot] += 1
+            parent[y_r] = x_r
+            l[x_r] += 1
 
     def Kruskal(self):
         result =[]
         i = 0
-        e = 0
+        r = 0
         self.graph = sorted(self.graph,key = lambda item:item[2]) 
         parent = []
         l = [] 
         for node in range(self.V):
             parent.append(node)
             l.append(0)
-        while e < self.V -1:
+        while r < self.V -1:
             u,v,w =  self.graph[i]
             i = i + 1
             x = self.find(parent, u)
             y = self.find(parent ,v)
             if x != y:
-                e = e + 1
+                r = r + 1
                 result.append([u,v,w])
                 self.union(parent, l, x, y)
                 
