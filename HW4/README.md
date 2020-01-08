@@ -1,7 +1,7 @@
 ## Hash Table
 ### 資料夾目錄
-* [原理](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW4/Hash%20Table%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87Hash%20Table%E8%88%87Hash%20function%E5%8E%9F%E7%90%86.md)
-* [程式碼](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW4/hash_table_06170235.py)
+* [**原理**](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW4/Hash%20Table%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87Hash%20Table%E8%88%87Hash%20function%E5%8E%9F%E7%90%86.md)
+* [**程式碼**](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW4/hash_table_06170235.py)
 ### 簡述
 * 雜湊表，也叫哈希表，是根據 **鍵（Key）** 直接查詢在內存存儲位置的資料結構。也就是說，它透過 **雜湊函數（Hash Function）** ，將所需查詢的數據映射到表中一個位置來查詢記錄，加快了查找速度。
   * `雜湊函數`：也叫雜湊演算法，是將不固定長度訊息的輸入，演算成固定長度**雜湊值**的輸出。
