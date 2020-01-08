@@ -4,8 +4,8 @@
 * [流程圖](#流程圖)
 * [學習歷程](#學習歷程)
 ### 文字說明
-#### Merge Sort（合併排序法）
-* 是排序演算法的一種，使用Divide and Conquer的演算法來實作。
+#### Merge Sort
+* 合併排序法，是排序演算法的一種，使用Divide and Conquer的演算法來實作。
   * Divide and Conquer（分治法）：「分而治之」，就是把一個複雜的問題分成兩個或更多的相同或相似的子問題，直到最後子問題可以簡單的直接求解，原問題的解即子問題的解的合併。
   <br />
   <div align=center><img width="435" height="382.5" src="https://github.com/ChengShaoChi/Learning-Note/blob/master/Image/Merge%20Sort%201.png?raw=true"/></div>    
