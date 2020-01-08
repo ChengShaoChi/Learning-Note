@@ -1,8 +1,8 @@
 ## Quick Sort
 ### 資料夾目錄
-* [原理、筆記](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1/Quick%20Sort.ipynb)
-* [流程圖](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1/QuickSort.png)
-* [程式碼](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1/Quick%20Sort.py)
+* [**原理、筆記**](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1/Quick%20Sort.ipynb)
+* [**流程圖**](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1/QuickSort.png)
+* [**程式碼**](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1/Quick%20Sort.py)
 ### 簡述
 * 快速排序，又稱劃分交換排序（Partition-Exchange Sort），簡稱快排，一種排序演算法。採用分割與征服（Divide and Conquer）策略從數列中挑選一個基準點，大於基準的放一邊，小於的放一邊，如此循環最後可完成排序。最壞時間複雜度Θ(n^2)，最佳時間複雜度Θ(nlogn)，平均時間複雜度	Θ(nlogn)。    
 * 步驟：
