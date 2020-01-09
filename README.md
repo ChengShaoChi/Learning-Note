@@ -5,7 +5,7 @@
 * [**額外練習**](#額外練習)
 
 ## 作業
-* [**HW1 Quick Sort**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW1%EF%BC%9AQuick%20Sort)
+* [**HW1**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW1)
   * [ipynb檔](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/Quick%20Sort.ipynb)
   * [README](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/README.md)
   * [程式碼](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/Quick%20Sort.py)
