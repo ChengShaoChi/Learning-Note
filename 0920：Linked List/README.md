@@ -15,5 +15,5 @@
 ![image](https://miro.medium.com/max/2548/1*nDwDbeHwOz_Kl4zRIMbe_A.png)    
 
 參考資料：    
-http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html    
-https://medium.com/@tobby168/%E7%94%A8python%E5%AF%A6%E4%BD%9Clinked-list-524441133d4d    
+[Linked List: Intro(簡介)](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)    
+[用python實作linked-list - Tobby Kuo - Medium](https://medium.com/@tobby168/%E7%94%A8python%E5%AF%A6%E4%BD%9Clinked-list-524441133d4d)
