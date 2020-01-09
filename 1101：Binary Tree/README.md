@@ -1,4 +1,6 @@
 ## Binary Tree
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/288px-Binary_tree.svg.png)
+
 二元樹，是每個節點最多只有兩個分支的樹結構。通常分支被稱作「左子樹」和「右子樹」。二元樹的分支具有左右次序，不能隨意顛倒。二元樹的第![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/add78d8608ad86e54951b8c8bd6c8d8416533d20)層至多擁有![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/de838b503259acc792dd682654445984ea6e4c6d)個節點。對任何一棵非空的二元樹，如果其葉片（終端節點）數為![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/63584d203ecb012a7bcb90f422408bbfe4018956)，分支度為2的節點數為![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/840e456e3058bc0be28e5cf653b170cdbfcc3be4)，則![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/aa746d23c7cab9729c356a8e12e734e03de9fa64)。二元樹通常作為資料結構應用，典型用法是對節點定義一個標記函式，將一些值與每個節點相關聯。這樣標記的二元樹就可以實現[二元搜尋樹](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW3)和二元堆積，並應用於高效率的搜尋和排序。
 
 ||普通樹|二元樹|
