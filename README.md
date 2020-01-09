@@ -9,7 +9,7 @@
   * [ipynb檔](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1/Quick%20Sort.ipynb)
   * [程式碼](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1/Quick%20Sort.py)
   * [流程圖](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1/QuickSort.png)
-  * [jupyter nbviewer](https://nbviewer.jupyter.org/github/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/Quick%20Sort.ipynb)
+  * [jupyter nbviewer](https://nbviewer.jupyter.org/github/ChengShaoChi/Learning-Note/blob/master/HW1/Quick%20Sort.ipynb)
 * [**HW2**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW2)
   * [merge_sort_06170235.py](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW2/merge_sort_06170235.py)
   * [Meap Sort 流程圖、學習歷程與文字說明](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW2/Merge%20Sort%20%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.md)    
