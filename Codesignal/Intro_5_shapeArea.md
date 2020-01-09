@@ -3,6 +3,7 @@
 
 <div align=center><img src="https://github.com/ChengShaoChi/Learning-Note/blob/master/Image/Area.png?raw=true"/></div>
 
+* 意思：算面積。
 * 例子：
   * For n = 2, the output should be shapeArea(n) = 5.
   * For n = 3, the output should be shapeArea(n) = 13.
