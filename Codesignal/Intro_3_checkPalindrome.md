@@ -1,5 +1,6 @@
 ## checkPalindrome
 * 題目：Given the string, check if it is a palindrome.
+* 意思：輸入字串，判斷是否為回文。
 * 例子：
   * For inputString = "aabaa", the output should be checkPalindrome(inputString) = true.
   * For inputString = "abac", the output should be checkPalindrome(inputString) = false.
