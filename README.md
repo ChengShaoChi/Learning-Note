@@ -6,10 +6,9 @@
 
 ## 作業
 * [**HW1**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW1)
-  * [ipynb檔](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/Quick%20Sort.ipynb)
-  * [README](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/README.md)
-  * [程式碼](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/Quick%20Sort.py)
-  * [流程圖](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/QuickSort.png)
+  * [ipynb檔](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1/Quick%20Sort.ipynb)
+  * [程式碼](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1/Quick%20Sort.py)
+  * [流程圖](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW1/QuickSort.png)
   * [jupyter nbviewer](https://nbviewer.jupyter.org/github/ChengShaoChi/Learning-Note/blob/master/HW1%EF%BC%9AQuick%20Sort/Quick%20Sort.ipynb)
 * [**HW2**](https://github.com/ChengShaoChi/Learning-Note/tree/master/HW2)
   * [merge_sort_06170235.py](https://github.com/ChengShaoChi/Learning-Note/blob/master/HW2/merge_sort_06170235.py)
