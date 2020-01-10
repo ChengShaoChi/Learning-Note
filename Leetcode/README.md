@@ -9,4 +9,5 @@
 |69|[Sqrt(x)](https://github.com/ChengShaoChi/Learning-Note/blob/master/Leetcode/69_Sqrt(x)_06170235.py)|
 |155|[Min Stack](https://github.com/ChengShaoChi/Learning-Note/blob/master/Leetcode/155_Min%20Stack_06170235.py)|
 |232|[Implement Queue using Stacks](https://github.com/ChengShaoChi/Learning-Note/blob/master/Leetcode/232_Implement%20Queue%20using%20Stacks_06170235.py)|
+|707|[Design Linked List](https://github.com/ChengShaoChi/Learning-Note/blob/master/Leetcode/707_Design%20Linked%20List_06170235.py)|
 |1051|[Height Checker](https://github.com/ChengShaoChi/Learning-Note/blob/master/Leetcode/1051_Height%20Checker_06170235.py)|
