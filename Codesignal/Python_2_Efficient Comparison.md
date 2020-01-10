@@ -14,4 +14,6 @@ Which option would be the most efficient in terms of execution time?
 - [ ] Option 3 is the most optimal one.
 - [ ] All of these options are equally good.
 * 意思：要使x ** y在L與R之間，且不包括L，包括R，要怎麼寫最有效。
-* 我的理解與學習筆記：
+* 我的理解與學習筆記：三個選項都是對的，但是選項1更有效率，因為它的運算比較少。
+
+- [x] Option 1 is the most optimal one.
