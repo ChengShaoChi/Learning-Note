@@ -1,9 +1,9 @@
 ## CS50
-CS50的課程名稱叫做Introduction to Computer Science，是一堂哈佛大學的通識課程，總之就是一門**在介紹Computer Science的課**。
+* CS50的課程名稱叫做Introduction to Computer Science，是一堂哈佛大學的通識課程，總之就是一門**在介紹Computer Science的課**。
 
 參考資料：[別猶豫了，來修CS50 吧！ - TechBridge 技術共筆部落格](https://blog.techbridge.cc/2017/11/11/cs50/)
 
-看了[CS50.tv](http://cs50.tv/2013/fall/#about,seminars)（2013年秋季）的影片，並做了筆記。
+* 看了[CS50.tv](http://cs50.tv/2013/fall/#about,seminars)（2013年秋季）的影片，並做了筆記。
 
 |章節|標題|
 |:---:|:---|
