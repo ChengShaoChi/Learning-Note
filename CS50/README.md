@@ -1,4 +1,5 @@
 ## CS50
+看了[CS50.tv](http://cs50.tv/2013/fall/#about,seminars)的影片，並做了筆記。
 
 |章節|標題|
 |:---:|:---|
