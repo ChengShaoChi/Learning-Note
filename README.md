@@ -1,5 +1,5 @@
 # 資料結構與演算法
-> 這裡記錄我在**資料結構與演算法**這堂課的筆記、作業和學習:swimmer:
+> 這裡記錄我在2020年上**資料結構與演算法**這堂課的筆記、作業和學習:swimmer:
 ## 自我簡介
 |:dango:|![image](https://github.com/ChengShaoChi/Learning-Note/blob/master/Image/I.png?raw=true)|
 |:---:|:---:|
